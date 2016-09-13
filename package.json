@@ -8,7 +8,7 @@
   "dependencies": {
     "classname": "0.0.0",
     "classnames": "^2.2.5",
-    "extendable-record": "0.0.2",
+    "extendable-record": "1.0.0",
     "immutable": "^3.8.1",
     "immutable-reducer": "0.0.4",
     "react": "^15.3.1",
